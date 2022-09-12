@@ -23,7 +23,7 @@
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-navas&show_icons=true&locale=en&layout=compact" alt="jesus-navas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-navas&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true&hide=shell" alt="jesus-navas" /></p>
 
 
 
