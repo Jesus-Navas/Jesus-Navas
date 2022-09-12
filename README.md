@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌱 I’m currently learning: Improving my React and TypeScript knowledge and skills
-- 🤔 What I want to learn next: Develop apps using [React Native](https://reactnative.dev/)
+- 🤔 What I want to learn next: [React Native](https://reactnative.dev/) for mobile apps
 - 🎓 Web Development Bootcamp @Ironhack
 - 🎓 Web Development Professional Training @Cesur
 - 🎓 Architectural Technologist @UniversityGranada
