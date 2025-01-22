@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌱 I’m currently learning: Improving my Apex and LWC knowledge and skills
-- 🤔 What I want to learn next: [React Native](https://reactnative.dev/) for mobile apps
+- 🤔 What I want to learn next: Swift and SwiftUI for Apple apps
 - 🎓 Web Development Bootcamp @Ironhack
 - 🎓 Web Development Professional Training @Cesur
 - 🎓 Architectural Technologist @UniversityGranada
