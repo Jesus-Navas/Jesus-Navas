@@ -11,13 +11,7 @@
 - 📫 How to reach me: `jesusnavas@outlook.com`
 
 ## 🔧 Tools I Like To Use
-
+- [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+- [Lightning Web Components (LWC)](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Postman](https://www.postman.com/)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-navas&show_icons=true&locale=en&theme=merko&hide_border=true&hide=shell" alt="jesus-navas" /></p>
-
-
-
-
