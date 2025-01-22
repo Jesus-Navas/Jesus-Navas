@@ -3,7 +3,7 @@
 <p align="center">👋 Hi, I'm Jesus. I am a Salesforce Developer.</p>
 
 ## About Me
-- 🌱 I’m currently learning: Improving my React and TypeScript knowledge and skills
+- 🌱 I’m currently learning: Improving my Apex and LWC knowledge and skills
 - 🤔 What I want to learn next: [React Native](https://reactnative.dev/) for mobile apps
 - 🎓 Web Development Bootcamp @Ironhack
 - 🎓 Web Development Professional Training @Cesur
@@ -12,16 +12,9 @@
 
 ## 🔧 Tools I Like To Use
 
-- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
-- [styled-components](https://styled-components.com/)
-- [Chakra UI](https://chakra-ui.com/)
-- [Storybook](https://storybook.js.org/)
 - [Postman](https://www.postman.com/)
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-navas&show_icons=true&locale=en&theme=merko&hide_border=true&hide=shell" alt="jesus-navas" /></p>
 
